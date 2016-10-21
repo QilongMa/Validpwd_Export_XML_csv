@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AllUserInfor>
+  <User>
+    <Name>Susan Smith</Name>
+    <Email>ssmith@company1.com</Email>
+    <Init_Password>susan12%#?</Init_Password>
+    <Role>SuperUser</Role>
+    <Reason_For_Access>Because I am "cool", I can do whatever I want.</Reason_For_Access>
+  </User>
+  <User>
+    <Name>Alex O'Connor</Name>
+    <Email>alexoconnor@univ1.edu</Email>
+    <Init_Password>itsuniv1</Init_Password>
+    <Role>ReadOnly</Role>
+    <Reason_For_Access>I need to access report for budget &lt; 1M $</Reason_For_Access>
+  </User>
+  <User>
+    <Name>John J. Peterson</Name>
+    <Email>john.p@comany2.com</Email>
+    <Init_Password>J.Pe1234!</Init_Password>
+    <Role>Auditor</Role>
+    <Reason_For_Access>Access to 1) all reports; 2)server system logs for "Audit"and [app]_Access_Log</Reason_For_Access>
+  </User>
+  <User>
+    <Name>Chen, Mei 陈梅</Name>
+    <Email>chehmei12@123.com</Email>
+    <Init_Password>&lt;:-)&gt;{;=0}</Init_Password>
+    <Role>ReadOnly</Role>
+    <Reason_For_Access>我负责中国分公司财务</Reason_For_Access>
+  </User>
+</AllUserInfor>

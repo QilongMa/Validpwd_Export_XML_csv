@@ -1,0 +1,6 @@
+D:\C#May2016\Console_Ado\program\bin\Debug\program.exe.config
+D:\C#May2016\Console_Ado\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+D:\C#May2016\Console_Ado\program\bin\Debug\program.exe
+D:\C#May2016\Console_Ado\program\bin\Debug\program.pdb
+D:\C#May2016\Console_Ado\program\obj\Debug\program.exe
+D:\C#May2016\Console_Ado\program\obj\Debug\program.pdb
